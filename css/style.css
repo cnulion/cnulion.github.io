@@ -117,7 +117,8 @@ font-weight: 900;
 	}
 /* Home Style */
 #tf-home{
-	background: url(../img/main.png);
+	/*background: url(../img/main.png);*/
+    background-color: black;
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -180,7 +181,7 @@ ul.about-list li span{
 
 /* Team Section */
 #tf-team{
-	background: url(../img/cnu.png);
+	background: url(../img/cnu_sized_ratio.png);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -444,7 +445,7 @@ ol.type li a.active { font-weight: 700; }
 }
 /* Testimonials Section */
 #tf-testimonials{
-	background: url(../img/05.jpg);
+	background: url(../img/about.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
